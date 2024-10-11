@@ -128,7 +128,7 @@ async function generateAnswer() {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Gemini-like Chat
+              DV AI Chat
             </Typography>
             <IconButton color="inherit" onClick={toggleDarkMode} aria-label={darkMode ? "Switch to light mode" : "Switch to dark mode"}>
               {darkMode ? <Brightness7Icon /> : <Brightness4Icon />}
